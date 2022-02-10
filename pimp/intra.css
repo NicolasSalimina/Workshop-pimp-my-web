@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+.module {
+    font-size: x-large;
+    color: aqua;
+    font-style: oblique;
+}
